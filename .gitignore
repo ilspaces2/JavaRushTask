@@ -1,0 +1,23 @@
+﻿#############
+## Idea
+#############
+target/
+.idea/
+.idea
+#.repository/
+*.iml
+*.iws
+#*.jrtc
+#*.java
+*.class
+*.info
+*.properties
+*.jar
+/MyTask
+com.javarush.task.task19.task1912.Solution$TestString@eed1f14
+#JavaRushTasks.iml
+/out/
+/JavaRushPlugin.properties
+/Instruction.png
+/out.log
+/out.log.*
